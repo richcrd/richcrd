@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![roadmap.sh](https://roadmap.sh/card/tall/66d65e90553501e3c3ce2643?variant=dark&roadmaps=react-native%2Cjavascript%2Csql%2Cfull-stack)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/66d65e90553501e3c3ce2643?variant=dark&roadmaps=react-native%2Cjavascript%2Csql%2Cfull-stack)](https://roadmap.sh)
